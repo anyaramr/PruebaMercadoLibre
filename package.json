@@ -1,0 +1,25 @@
+{
+  "name": "pruebamercadolibre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anyaramr/PruebaMercadoLibre.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anyaramr/PruebaMercadoLibre/issues"
+  },
+  "homepage": "https://github.com/anyaramr/PruebaMercadoLibre#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.36.2",
+    "@types/node": "^20.4.9"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
